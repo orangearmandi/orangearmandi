@@ -1,4 +1,4 @@
-## 👋 ¡Hola! Soy César Armando Rodríguez Guzmán
+## 👋 ¡Hola! Soy César Rodríguez
 
 🎓 **Ingeniero de Sistemas**  
 💻 **Desarrollador de software** | Desarrollador en Flutter, Java, Firebase, Spring Boot, Docker y DevOps  
