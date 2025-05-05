@@ -1,7 +1,7 @@
 ## 👋 ¡Hola! Soy César Armando Rodríguez Guzmán
 
 🎓 **Ingeniero de Sistemas**  
-💻 **Desarrollador de software full-stack** | Especializado en Flutter, Java, Firebase, Spring Boot, Docker y DevOps  
+💻 **Desarrollador de software** | Desarrollador en Flutter, Java, Firebase, Spring Boot, Docker y DevOps  
 🌎 Desde Girardot, Cundinamarca - Colombia
 
 ---
