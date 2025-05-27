@@ -1,5 +1,7 @@
 ## 👋 ¡Hola! Soy César Rodríguez
 
+![fondo](background-hero-night.png)
+
 🎓 **Ingeniero de Sistemas**  
 💻 **Desarrollador de software** | Desarrollador en Flutter, Java, Firebase, Spring Boot, Docker y DevOps  
 🌎 Desde Girardot, Cundinamarca - Colombia
