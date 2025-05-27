@@ -19,7 +19,7 @@
 - **[Springbootapi](https://github.com/orangearmandi/Springbootapi)**  
   🌐 API REST usando Spring Boot.
 
-- **[prueba_tecnica_DevOps_docker_kubernetes_argocd](https://github.com/orangearmandi/prueba_tecnica_DevOps_docker_kubernetes_argocd)**  
+- **[práctica_tecnica_DevOps_docker_kubernetes_argocd](https://github.com/orangearmandi/prueba_tecnica_DevOps_docker_kubernetes_argocd)**  
   ⚙️ Solución completa DevOps: CI/CD, contenedores, monitoreo y base de datos.
 
 - **[mapa_interactivo](https://github.com/orangearmandi/mapa_interactivo)**  
